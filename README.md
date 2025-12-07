@@ -1,4 +1,4 @@
-# KIDGCN
+# KMD-GCN
 
 # Knowledge-informed dynamic graph neural network for restaurant-level demand prediction in online food delivery
 
@@ -25,8 +25,8 @@ pip install -r requirements.txt
 ---
 
 ## 🧠 Overall Architecture
-This is the framework of the knowledge-informed dynamic graph convolutional network (KMD-GNN).
-![Framework of the knowledge-informed dynamic graph convolutional network (KMD-GNN).](./Figs/over-stru.jpg)
+This is the framework of the knowledge-informed dynamic graph convolutional network (KMD-GCN).
+![Framework of the knowledge-informed dynamic graph convolutional network (KMD-GCN).](./Figs/over-stru.jpg)
 
 
 ---
