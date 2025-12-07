@@ -25,8 +25,8 @@ pip install -r requirements.txt
 ---
 
 ## 🧠 Overall Architecture
-This is the framework of the knowledge-informed dynamic graph convolutional network (KIDGCN).
-![Framework of the knowledge-informed dynamic graph convolutional network (KIDGCN).](./Figs/over-stru.jpg)
+This is the framework of the knowledge-informed dynamic graph convolutional network (KMD-GNN).
+![Framework of the knowledge-informed dynamic graph convolutional network (KMD-GNN).](./Figs/over-stru.jpg)
 
 
 ---
